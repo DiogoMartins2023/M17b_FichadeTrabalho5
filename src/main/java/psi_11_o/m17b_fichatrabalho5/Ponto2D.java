@@ -25,14 +25,14 @@ public class Ponto2D {
 
     
     /**
-     * @return the x
+     * <i>@retorna o x</i> 
      */
     public int getX() {
         return x;
     }
 
     /**
-     * @param x the x to set
+     * <b>@param x the x to set</b>
      */
     public void setX(int x) {
         this.x = x;
