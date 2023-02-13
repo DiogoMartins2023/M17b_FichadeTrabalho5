@@ -23,6 +23,7 @@ public class Ponto2D {
         return "Ponto2D[" + getX() + "," + getY() + "]";
     }    
 
+    
     /**
      * @return the x
      */
